@@ -1,0 +1,1213 @@
+[
+  {
+    "id": 1,
+    "sku": "KB-001",
+    "name": "Tilde 60",
+    "brand": "Switchyard",
+    "category": "60%",
+    "layout": "60%",
+    "price": 59.99,
+    "salePrice": 49.99,
+    "currency": "USD",
+    "description": "A plain black 60% board that fits any bag and any desk.",
+    "longDescription": "Tilde 60 is a 60% mechanical keyboard with a case made of ABS plastic and PBT keycaps. Clean legends and a low-profile case keep it out of the way. Choose from 3 switch types in graphite.",
+    "features": [
+      "61-key 60% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "None",
+    "weight": "1.5 lb",
+    "keyCount": 61,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Graphite"
+    ],
+    "colorHex": {
+      "Graphite": "#2B2F36"
+    },
+    "quantityInStock": 64,
+    "rating": 4.4,
+    "numberOfReviews": 312,
+    "freeShipping": false,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "tilde-60-graphite.jpg",
+    "thumbnail": "tilde-60-graphite.jpg",
+    "colorImages": {
+      "Graphite": "tilde-60-graphite.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "sku": "KB-002",
+    "name": "Blush 60",
+    "brand": "Switchyard",
+    "category": "60%",
+    "layout": "60%",
+    "price": 54.99,
+    "currency": "USD",
+    "description": "A pink and white 60% with a soft glow under the keys.",
+    "longDescription": "Blush 60 is a 60% mechanical keyboard with a case made of ABS plastic and ABS keycaps. The pink lighting matches the keycaps for a cohesive desk look. Choose from 2 switch types in pink.",
+    "features": [
+      "61-key 60% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with ABS keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "ABS",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "1.4 lb",
+    "keyCount": 61,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown"
+    ],
+    "colors": [
+      "Pink"
+    ],
+    "colorHex": {
+      "Pink": "#E78FA6"
+    },
+    "quantityInStock": 48,
+    "rating": 4.5,
+    "numberOfReviews": 221,
+    "freeShipping": false,
+    "featuredProduct": true,
+    "newArrival": false,
+    "image": "blush-60-pink.jpg",
+    "thumbnail": "blush-60-pink.jpg",
+    "colorImages": {
+      "Pink": "blush-60-pink.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "sku": "KB-003",
+    "name": "Frost 60",
+    "brand": "Switchyard",
+    "category": "60%",
+    "layout": "60%",
+    "price": 139.99,
+    "salePrice": 119.99,
+    "currency": "USD",
+    "description": "A 60% with icy mint resin keycaps that look hand-poured.",
+    "longDescription": "Frost 60 is a 60% mechanical keyboard with a case made of polycarbonate and resin keycaps. Each keycap has its own crystal pattern. Choose from 3 switch types in mint.",
+    "features": [
+      "61-key 60% layout",
+      "Wired USB-C connection",
+      "Soldered switches for a solid build",
+      "Polycarbonate case with resin keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "Polycarbonate",
+    "keycapMaterial": "Resin",
+    "hotSwappable": false,
+    "backlight": "None",
+    "weight": "2.2 lb",
+    "keyCount": 61,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Mint"
+    ],
+    "colorHex": {
+      "Mint": "#BFE3D6"
+    },
+    "quantityInStock": 14,
+    "rating": 4.8,
+    "numberOfReviews": 58,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": true,
+    "image": "frost-60-mint.jpg",
+    "thumbnail": "frost-60-mint.jpg",
+    "colorImages": {
+      "Mint": "frost-60-mint.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "sku": "KB-004",
+    "name": "Candy 60",
+    "brand": "Switchyard",
+    "category": "60%",
+    "layout": "60%",
+    "price": 64.99,
+    "currency": "USD",
+    "description": "A bright pink, blue, and purple 60% that brings color to a desk.",
+    "longDescription": "Candy 60 is a 60% mechanical keyboard with a case made of ABS plastic and PBT keycaps. Backlit legends in matching colors glow through the keycaps. Choose from 3 switch types in pink.",
+    "features": [
+      "61-key 60% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "1.5 lb",
+    "keyCount": 61,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Pink"
+    ],
+    "colorHex": {
+      "Pink": "#E78FA6"
+    },
+    "quantityInStock": 39,
+    "rating": 4.3,
+    "numberOfReviews": 97,
+    "freeShipping": false,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "candy-60-pink.jpg",
+    "thumbnail": "candy-60-pink.jpg",
+    "colorImages": {
+      "Pink": "candy-60-pink.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "sku": "KB-005",
+    "name": "Pebble 60",
+    "brand": "Switchyard",
+    "category": "60%",
+    "layout": "60%",
+    "price": 49.99,
+    "currency": "USD",
+    "description": "A white 60% with RGB lighting and a gold accent key.",
+    "longDescription": "Pebble 60 is a 60% mechanical keyboard with a case made of ABS plastic and ABS keycaps. It's a low-cost way into mechanical keyboards. Choose from 2 switch types in white.",
+    "features": [
+      "61-key 60% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with ABS keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "ABS",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "1.3 lb",
+    "keyCount": 61,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown"
+    ],
+    "colors": [
+      "White"
+    ],
+    "colorHex": {
+      "White": "#F2F2F2"
+    },
+    "quantityInStock": 72,
+    "rating": 4.2,
+    "numberOfReviews": 404,
+    "freeShipping": false,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "pebble-60-white.jpg",
+    "thumbnail": "pebble-60-white.jpg",
+    "colorImages": {
+      "White": "pebble-60-white.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "sku": "KB-006",
+    "name": "Harbor 65",
+    "brand": "Switchyard",
+    "category": "65%",
+    "layout": "65%",
+    "price": 169.99,
+    "salePrice": 149.99,
+    "currency": "USD",
+    "description": "A navy aluminum 65% with gray and aqua keycaps.",
+    "longDescription": "Harbor 65 is a 65% mechanical keyboard with a case made of aluminum and PBT keycaps. A solid metal case gives it a dense, quiet feel. Choose from 3 switch types in navy.",
+    "features": [
+      "68-key 65% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "Aluminum case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "Aluminum",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "None",
+    "weight": "3.0 lb",
+    "keyCount": 68,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Navy"
+    ],
+    "colorHex": {
+      "Navy": "#1E2A4A"
+    },
+    "quantityInStock": 11,
+    "rating": 4.9,
+    "numberOfReviews": 134,
+    "freeShipping": true,
+    "featuredProduct": true,
+    "newArrival": false,
+    "image": "harbor-65-navy.jpg",
+    "thumbnail": "harbor-65-navy.jpg",
+    "colorImages": {
+      "Navy": "harbor-65-navy.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "sku": "KB-007",
+    "name": "Split 65",
+    "brand": "Switchyard",
+    "category": "65%",
+    "layout": "65%",
+    "price": 189.99,
+    "currency": "USD",
+    "description": "A 65% that separates into two halves so you can type at your own width.",
+    "longDescription": "Split 65 is a 65% mechanical keyboard with a case made of aluminum and PBT keycaps. A rotary knob sits in the top corner, and RGB lighting runs under every key. Choose from 3 switch types in graphite.",
+    "features": [
+      "68-key 65% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "Aluminum case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C, two cables)",
+    "wireless": false,
+    "caseMaterial": "Aluminum",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "3.4 lb",
+    "keyCount": 68,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Graphite"
+    ],
+    "colorHex": {
+      "Graphite": "#2B2F36"
+    },
+    "quantityInStock": 9,
+    "rating": 4.7,
+    "numberOfReviews": 46,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": true,
+    "image": "split-65-graphite.jpg",
+    "thumbnail": "split-65-graphite.jpg",
+    "colorImages": {
+      "Graphite": "split-65-graphite.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "sku": "KB-008",
+    "name": "Clearwater 65",
+    "brand": "Switchyard",
+    "category": "65%",
+    "layout": "65%",
+    "price": 129.99,
+    "currency": "USD",
+    "description": "A clear-case 65% with cream and charcoal keycaps and rust-colored arrows.",
+    "longDescription": "Clearwater 65 is a 65% mechanical keyboard with a case made of polycarbonate and PBT keycaps. The see-through case shows off the plate and foam inside. Choose from 4 switch types in ivory.",
+    "features": [
+      "68-key 65% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "Polycarbonate case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "Polycarbonate",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "None",
+    "weight": "2.4 lb",
+    "keyCount": 68,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue",
+      "Silent Linear"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "colorHex": {
+      "Ivory": "#E6E2D8"
+    },
+    "quantityInStock": 21,
+    "rating": 4.6,
+    "numberOfReviews": 73,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "clearwater-65-ivory.jpg",
+    "thumbnail": "clearwater-65-ivory.jpg",
+    "colorImages": {
+      "Ivory": "clearwater-65-ivory.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "sku": "KB-009",
+    "name": "Redline 65",
+    "brand": "Switchyard",
+    "category": "65%",
+    "layout": "65%",
+    "price": 119.99,
+    "salePrice": 99.99,
+    "currency": "USD",
+    "description": "A black 65% with smoky gradient keycaps and a red knob.",
+    "longDescription": "Redline 65 is a 65% mechanical keyboard with a case made of aluminum and PBT keycaps. The red knob adjusts volume and can be remapped. Choose from 2 switch types in graphite.",
+    "features": [
+      "68-key 65% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "Aluminum case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "Aluminum",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "None",
+    "weight": "2.6 lb",
+    "keyCount": 68,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown"
+    ],
+    "colors": [
+      "Graphite"
+    ],
+    "colorHex": {
+      "Graphite": "#2B2F36"
+    },
+    "quantityInStock": 26,
+    "rating": 4.6,
+    "numberOfReviews": 88,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "redline-65-graphite.jpg",
+    "thumbnail": "redline-65-graphite.jpg",
+    "colorImages": {
+      "Graphite": "redline-65-graphite.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "sku": "KB-010",
+    "name": "Pocket 65",
+    "brand": "Switchyard",
+    "category": "65%",
+    "layout": "65%",
+    "price": 79.99,
+    "salePrice": 69.99,
+    "currency": "USD",
+    "description": "A 65% layout that keeps the arrow keys and drops the rest.",
+    "longDescription": "Pocket 65 is a 65% mechanical keyboard with a case made of polycarbonate and PBT keycaps. The translucent case lets the RGB glow show through the edges. Choose from 3 switch types in graphite.",
+    "features": [
+      "68-key 65% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "Polycarbonate case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "Polycarbonate",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "1.9 lb",
+    "keyCount": 68,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Graphite"
+    ],
+    "colorHex": {
+      "Graphite": "#2B2F36"
+    },
+    "quantityInStock": 37,
+    "rating": 4.7,
+    "numberOfReviews": 256,
+    "freeShipping": false,
+    "featuredProduct": true,
+    "newArrival": false,
+    "image": "pocket-65-graphite.jpg",
+    "thumbnail": "pocket-65-graphite.jpg",
+    "colorImages": {
+      "Graphite": "pocket-65-graphite.jpg"
+    }
+  },
+  {
+    "id": 11,
+    "sku": "KB-011",
+    "name": "Quill 75",
+    "brand": "Switchyard",
+    "category": "75%",
+    "layout": "75%",
+    "price": 149.99,
+    "currency": "USD",
+    "description": "A black aluminum 75% with a full function row and a volume knob.",
+    "longDescription": "Quill 75 is a 75% mechanical keyboard with a case made of aluminum and PBT keycaps. The metal case adds weight and a deep, steady sound. Choose from 3 switch types in graphite.",
+    "features": [
+      "82-key 75% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "Aluminum case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "Aluminum",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "None",
+    "weight": "3.6 lb",
+    "keyCount": 82,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Graphite"
+    ],
+    "colorHex": {
+      "Graphite": "#2B2F36"
+    },
+    "quantityInStock": 15,
+    "rating": 4.8,
+    "numberOfReviews": 118,
+    "freeShipping": true,
+    "featuredProduct": true,
+    "newArrival": false,
+    "image": "quill-75-graphite.jpg",
+    "thumbnail": "quill-75-graphite.jpg",
+    "colorImages": {
+      "Graphite": "quill-75-graphite.jpg"
+    }
+  },
+  {
+    "id": 12,
+    "sku": "KB-012",
+    "name": "Glacier 75",
+    "brand": "Switchyard",
+    "category": "75%",
+    "layout": "75%",
+    "price": 139.99,
+    "salePrice": 119.99,
+    "currency": "USD",
+    "description": "An all-white wireless 75% with white backlighting and a knob.",
+    "longDescription": "Glacier 75 is a 75% mechanical keyboard with a case made of ABS plastic and PBT keycaps. Switch between three Bluetooth devices or plug in the cable. Choose from 3 switch types in white.",
+    "features": [
+      "82-key 75% layout",
+      "Wireless: Bluetooth 5.1 + 2.4 GHz",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with PBT keycaps"
+    ],
+    "connectivity": "Bluetooth 5.1 + 2.4 GHz + USB-C",
+    "wireless": true,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "White",
+    "weight": "2.6 lb",
+    "keyCount": 82,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "White"
+    ],
+    "colorHex": {
+      "White": "#F2F2F2"
+    },
+    "quantityInStock": 24,
+    "rating": 4.7,
+    "numberOfReviews": 167,
+    "freeShipping": true,
+    "featuredProduct": true,
+    "newArrival": false,
+    "image": "glacier-75-white.jpg",
+    "thumbnail": "glacier-75-white.jpg",
+    "colorImages": {
+      "White": "glacier-75-white.jpg"
+    }
+  },
+  {
+    "id": 13,
+    "sku": "KB-013",
+    "name": "Concrete 75",
+    "brand": "Switchyard",
+    "category": "75%",
+    "layout": "75%",
+    "price": 129.99,
+    "currency": "USD",
+    "description": "A gray and white aluminum 75% with a retro look.",
+    "longDescription": "Concrete 75 is a 75% mechanical keyboard with a case made of aluminum and PBT keycaps. Soft gray modifiers frame light alphas for an understated feel. Choose from 3 switch types in gray.",
+    "features": [
+      "82-key 75% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "Aluminum case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "Aluminum",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "None",
+    "weight": "3.2 lb",
+    "keyCount": 82,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Gray"
+    ],
+    "colorHex": {
+      "Gray": "#8A9199"
+    },
+    "quantityInStock": 19,
+    "rating": 4.8,
+    "numberOfReviews": 92,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": true,
+    "image": "concrete-75-gray.jpg",
+    "thumbnail": "concrete-75-gray.jpg",
+    "colorImages": {
+      "Gray": "concrete-75-gray.jpg"
+    }
+  },
+  {
+    "id": 14,
+    "sku": "KB-014",
+    "name": "Violet 75",
+    "brand": "Switchyard",
+    "category": "75%",
+    "layout": "75%",
+    "price": 109.99,
+    "salePrice": 99.99,
+    "currency": "USD",
+    "description": "A deep purple 75% with a small screen and a rotary knob.",
+    "longDescription": "Violet 75 is a 75% mechanical keyboard with a case made of ABS plastic and PBT keycaps. The screen shows status, and the knob handles volume. Choose from 3 switch types in purple.",
+    "features": [
+      "82-key 75% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "2.8 lb",
+    "keyCount": 82,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Purple"
+    ],
+    "colorHex": {
+      "Purple": "#5B3A78"
+    },
+    "quantityInStock": 33,
+    "rating": 4.5,
+    "numberOfReviews": 81,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "violet-75-purple.jpg",
+    "thumbnail": "violet-75-purple.jpg",
+    "colorImages": {
+      "Purple": "violet-75-purple.jpg"
+    }
+  },
+  {
+    "id": 15,
+    "sku": "KB-015",
+    "name": "Domino 75",
+    "brand": "Switchyard",
+    "category": "75%",
+    "layout": "75%",
+    "price": 94.99,
+    "currency": "USD",
+    "description": "A black, white, and gray 75% with bright per-key lighting.",
+    "longDescription": "Domino 75 is a 75% mechanical keyboard with a case made of ABS plastic and PBT keycaps. Lighting effects can be changed right from the keyboard. Choose from 4 switch types in graphite.",
+    "features": [
+      "82-key 75% layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "2.5 lb",
+    "keyCount": 82,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue",
+      "Silent Linear"
+    ],
+    "colors": [
+      "Graphite"
+    ],
+    "colorHex": {
+      "Graphite": "#2B2F36"
+    },
+    "quantityInStock": 42,
+    "rating": 4.4,
+    "numberOfReviews": 139,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "domino-75-graphite.jpg",
+    "thumbnail": "domino-75-graphite.jpg",
+    "colorImages": {
+      "Graphite": "domino-75-graphite.jpg"
+    }
+  },
+  {
+    "id": 16,
+    "sku": "KB-016",
+    "name": "Foundry TKL",
+    "brand": "Switchyard",
+    "category": "TKL",
+    "layout": "TKL",
+    "price": 179.99,
+    "currency": "USD",
+    "description": "A gray and white aluminum TKL with red accent keys.",
+    "longDescription": "Foundry TKL is a TKL (tenkeyless) mechanical keyboard with a case made of aluminum and PBT keycaps. The compact TKL body leaves plenty of room for your mouse. Choose from 3 switch types in ivory.",
+    "features": [
+      "87-key TKL (tenkeyless) layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "Aluminum case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "Aluminum",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "None",
+    "weight": "3.9 lb",
+    "keyCount": 87,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "colorHex": {
+      "Ivory": "#E6E2D8"
+    },
+    "quantityInStock": 12,
+    "rating": 4.9,
+    "numberOfReviews": 64,
+    "freeShipping": true,
+    "featuredProduct": true,
+    "newArrival": false,
+    "image": "foundry-tkl-ivory.jpg",
+    "thumbnail": "foundry-tkl-ivory.jpg",
+    "colorImages": {
+      "Ivory": "foundry-tkl-ivory.jpg"
+    }
+  },
+  {
+    "id": 17,
+    "sku": "KB-017",
+    "name": "Skyline TKL",
+    "brand": "Switchyard",
+    "category": "TKL",
+    "layout": "TKL",
+    "price": 99.99,
+    "salePrice": 89.99,
+    "currency": "USD",
+    "description": "A sky-blue TKL with cream keycaps and a pastel glow.",
+    "longDescription": "Skyline TKL is a TKL (tenkeyless) mechanical keyboard with a case made of ABS plastic and PBT keycaps. Blue and cream keycaps sit in a matching light blue case. Choose from 3 switch types in sky.",
+    "features": [
+      "87-key TKL (tenkeyless) layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "2.7 lb",
+    "keyCount": 87,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Sky"
+    ],
+    "colorHex": {
+      "Sky": "#6FB4E0"
+    },
+    "quantityInStock": 28,
+    "rating": 4.6,
+    "numberOfReviews": 152,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "skyline-tkl-sky.jpg",
+    "thumbnail": "skyline-tkl-sky.jpg",
+    "colorImages": {
+      "Sky": "skyline-tkl-sky.jpg"
+    }
+  },
+  {
+    "id": 18,
+    "sku": "KB-018",
+    "name": "Spectrum TKL",
+    "brand": "Switchyard",
+    "category": "TKL",
+    "layout": "TKL",
+    "price": 74.99,
+    "currency": "USD",
+    "description": "A black TKL with rainbow lighting across the whole board.",
+    "longDescription": "Spectrum TKL is a TKL (tenkeyless) mechanical keyboard with a case made of ABS plastic and ABS keycaps. Several lighting modes cycle through bright colors. Choose from 3 switch types in graphite.",
+    "features": [
+      "87-key TKL (tenkeyless) layout",
+      "Wired USB-C connection",
+      "Soldered switches for a solid build",
+      "ABS Plastic case with ABS keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "ABS",
+    "hotSwappable": false,
+    "backlight": "RGB",
+    "weight": "2.3 lb",
+    "keyCount": 87,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Graphite"
+    ],
+    "colorHex": {
+      "Graphite": "#2B2F36"
+    },
+    "quantityInStock": 55,
+    "rating": 4.2,
+    "numberOfReviews": 311,
+    "freeShipping": false,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "spectrum-tkl-graphite.jpg",
+    "thumbnail": "spectrum-tkl-graphite.jpg",
+    "colorImages": {
+      "Graphite": "spectrum-tkl-graphite.jpg"
+    }
+  },
+  {
+    "id": 19,
+    "sku": "KB-019",
+    "name": "Nimbus TKL",
+    "brand": "Switchyard",
+    "category": "TKL",
+    "layout": "TKL",
+    "price": 119.99,
+    "currency": "USD",
+    "description": "A white TKL with cloud-blue keycaps that fade from deep to pale.",
+    "longDescription": "Nimbus TKL is a TKL (tenkeyless) mechanical keyboard with a case made of ABS plastic and PBT keycaps. The keycaps shade from navy to sky blue across the board. Choose from 3 switch types in white.",
+    "features": [
+      "87-key TKL (tenkeyless) layout",
+      "Wireless: Bluetooth 5.1",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with PBT keycaps"
+    ],
+    "connectivity": "Bluetooth 5.1 + USB-C",
+    "wireless": true,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "2.9 lb",
+    "keyCount": 87,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "White"
+    ],
+    "colorHex": {
+      "White": "#F2F2F2"
+    },
+    "quantityInStock": 17,
+    "rating": 4.7,
+    "numberOfReviews": 58,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": true,
+    "image": "nimbus-tkl-white.jpg",
+    "thumbnail": "nimbus-tkl-white.jpg",
+    "colorImages": {
+      "White": "nimbus-tkl-white.jpg"
+    }
+  },
+  {
+    "id": 20,
+    "sku": "KB-020",
+    "name": "Tide TKL",
+    "brand": "Switchyard",
+    "category": "TKL",
+    "layout": "TKL",
+    "price": 134.99,
+    "salePrice": 119.99,
+    "currency": "USD",
+    "description": "A blue and gray TKL with a color display and a knob.",
+    "longDescription": "Tide TKL is a TKL (tenkeyless) mechanical keyboard with a case made of ABS plastic and PBT keycaps. The display shows the time, and the knob adjusts volume. Choose from 3 switch types in blue.",
+    "features": [
+      "87-key TKL (tenkeyless) layout",
+      "Wireless: Bluetooth 5.1 + 2.4 GHz",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with PBT keycaps"
+    ],
+    "connectivity": "Bluetooth 5.1 + 2.4 GHz + USB-C",
+    "wireless": true,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "White",
+    "weight": "3.0 lb",
+    "keyCount": 87,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "colorHex": {
+      "Blue": "#5B7FC4"
+    },
+    "quantityInStock": 22,
+    "rating": 4.6,
+    "numberOfReviews": 76,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "tide-tkl-blue.jpg",
+    "thumbnail": "tide-tkl-blue.jpg",
+    "colorImages": {
+      "Blue": "tide-tkl-blue.jpg"
+    }
+  },
+  {
+    "id": 21,
+    "sku": "KB-021",
+    "name": "Parallel TKL",
+    "brand": "Switchyard",
+    "category": "TKL",
+    "layout": "TKL",
+    "price": 89.99,
+    "salePrice": 79.99,
+    "currency": "USD",
+    "description": "All the keys you use, without a numpad taking up desk space.",
+    "longDescription": "Parallel TKL is a TKL (tenkeyless) mechanical keyboard with a case made of ABS plastic and PBT keycaps. The detachable USB-C cable makes it easy to pack. Choose from 3 switch types in graphite.",
+    "features": [
+      "87-key TKL (tenkeyless) layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "2.5 lb",
+    "keyCount": 87,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "Graphite"
+    ],
+    "colorHex": {
+      "Graphite": "#2B2F36"
+    },
+    "quantityInStock": 72,
+    "rating": 4.5,
+    "numberOfReviews": 402,
+    "freeShipping": true,
+    "featuredProduct": true,
+    "newArrival": false,
+    "image": "parallel-tkl-graphite.jpg",
+    "thumbnail": "parallel-tkl-graphite.jpg",
+    "colorImages": {
+      "Graphite": "parallel-tkl-graphite.jpg"
+    }
+  },
+  {
+    "id": 22,
+    "sku": "KB-022",
+    "name": "Compass TKL",
+    "brand": "Switchyard",
+    "category": "TKL",
+    "layout": "TKL",
+    "price": 99.99,
+    "currency": "USD",
+    "description": "A white and gray TKL with colorful underglow.",
+    "longDescription": "Compass TKL is a TKL (tenkeyless) mechanical keyboard with a case made of polycarbonate and PBT keycaps. Pre-lubed stabilizers keep the space bar from rattling. Choose from 4 switch types in ivory.",
+    "features": [
+      "87-key TKL (tenkeyless) layout",
+      "Wired USB-C connection",
+      "Hot-swappable switch sockets",
+      "Polycarbonate case with PBT keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "Polycarbonate",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "2.8 lb",
+    "keyCount": 87,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue",
+      "Silent Linear"
+    ],
+    "colors": [
+      "Ivory"
+    ],
+    "colorHex": {
+      "Ivory": "#E6E2D8"
+    },
+    "quantityInStock": 30,
+    "rating": 4.5,
+    "numberOfReviews": 82,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "compass-tkl-ivory.jpg",
+    "thumbnail": "compass-tkl-ivory.jpg",
+    "colorImages": {
+      "Ivory": "compass-tkl-ivory.jpg"
+    }
+  },
+  {
+    "id": 23,
+    "sku": "KB-023",
+    "name": "Studio 104",
+    "brand": "Switchyard",
+    "category": "Full-Size",
+    "layout": "Full-Size",
+    "price": 129.99,
+    "currency": "USD",
+    "description": "A full-size board with a numpad and a padded wrist rest.",
+    "longDescription": "Studio 104 is a full-size mechanical keyboard with a case made of aluminum and ABS keycaps. It's sold out right now. Check back soon for new stock. Choose from 2 switch types in graphite.",
+    "features": [
+      "104-key full-size layout",
+      "Wired USB-C connection",
+      "Soldered switches for a solid build",
+      "Aluminum case with ABS keycaps"
+    ],
+    "connectivity": "Wired (USB-C)",
+    "wireless": false,
+    "caseMaterial": "Aluminum",
+    "keycapMaterial": "ABS",
+    "hotSwappable": false,
+    "backlight": "RGB",
+    "weight": "3.9 lb",
+    "keyCount": 104,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown"
+    ],
+    "colors": [
+      "Graphite"
+    ],
+    "colorHex": {
+      "Graphite": "#2B2F36"
+    },
+    "quantityInStock": 0,
+    "rating": 4.5,
+    "numberOfReviews": 58,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "studio-104-graphite.jpg",
+    "thumbnail": "studio-104-graphite.jpg",
+    "colorImages": {
+      "Graphite": "studio-104-graphite.jpg"
+    }
+  },
+  {
+    "id": 24,
+    "sku": "KB-024",
+    "name": "Meadow 96",
+    "brand": "Switchyard",
+    "category": "Full-Size",
+    "layout": "96%",
+    "price": 99.99,
+    "salePrice": 89.99,
+    "currency": "USD",
+    "description": "A 96% wireless board with a numpad in white, gray, and mint.",
+    "longDescription": "Meadow 96 is a 96% mechanical keyboard with a case made of ABS plastic and PBT keycaps. Mint accent keys and bright RGB make it a standout. Choose from 3 switch types in white.",
+    "features": [
+      "100-key 96% layout",
+      "Wireless: Bluetooth 5.1 + 2.4 GHz",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with PBT keycaps"
+    ],
+    "connectivity": "Bluetooth 5.1 + 2.4 GHz + USB-C",
+    "wireless": true,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "3.0 lb",
+    "keyCount": 100,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "White"
+    ],
+    "colorHex": {
+      "White": "#F2F2F2"
+    },
+    "quantityInStock": 34,
+    "rating": 4.6,
+    "numberOfReviews": 112,
+    "freeShipping": true,
+    "featuredProduct": true,
+    "newArrival": true,
+    "image": "meadow-96-white.jpg",
+    "thumbnail": "meadow-96-white.jpg",
+    "colorImages": {
+      "White": "meadow-96-white.jpg"
+    }
+  },
+  {
+    "id": 25,
+    "sku": "KB-025",
+    "name": "Cirrus 96",
+    "brand": "Switchyard",
+    "category": "Full-Size",
+    "layout": "96%",
+    "price": 119.99,
+    "salePrice": 109.99,
+    "currency": "USD",
+    "description": "A 96% wireless board with a numpad and a rainbow light bar along the top.",
+    "longDescription": "Cirrus 96 is a 96% mechanical keyboard with a case made of ABS plastic and PBT keycaps. The lighting along the top edge puts a glow on your desk. Choose from 3 switch types in white.",
+    "features": [
+      "100-key 96% layout",
+      "Wireless: Bluetooth 5.1 + 2.4 GHz",
+      "Hot-swappable switch sockets",
+      "ABS Plastic case with PBT keycaps"
+    ],
+    "connectivity": "Bluetooth 5.1 + 2.4 GHz + USB-C",
+    "wireless": true,
+    "caseMaterial": "ABS Plastic",
+    "keycapMaterial": "PBT",
+    "hotSwappable": true,
+    "backlight": "RGB",
+    "weight": "3.1 lb",
+    "keyCount": 100,
+    "switchOptions": [
+      "Linear Red",
+      "Tactile Brown",
+      "Clicky Blue"
+    ],
+    "colors": [
+      "White"
+    ],
+    "colorHex": {
+      "White": "#F2F2F2"
+    },
+    "quantityInStock": 27,
+    "rating": 4.7,
+    "numberOfReviews": 95,
+    "freeShipping": true,
+    "featuredProduct": false,
+    "newArrival": false,
+    "image": "cirrus-96-white.jpg",
+    "thumbnail": "cirrus-96-white.jpg",
+    "colorImages": {
+      "White": "cirrus-96-white.jpg"
+    }
+  }
+]
